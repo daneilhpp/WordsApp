@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>C#</item>
+        <item>C</item>
+        <item>C++</item>
+        <item>HTML</item>
+        <item>Python</item>
+        <item>SQL</item>
+        <item>TypeScript</item>
+        <item>Ruby</item>
+        <item>Swift</item>
+        <item>Objective-C</item>
+        <item>Go</item>
+        <item>PowerShell</item>
+        <item>Dart</item>
+    </string-array>
+</resources>
